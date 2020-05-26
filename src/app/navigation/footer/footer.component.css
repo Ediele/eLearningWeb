@@ -1,0 +1,43 @@
+/* footer */
+.footer{
+    background-color: #212529;
+    height: 20%;    
+    padding: 20px;
+    font-family: Helvetica, Arial, sans-serif;            
+}
+
+.div-footer{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.div-social-medias-footer{
+    margin-top: 15px;
+    float: right;
+    padding-bottom: 10px;
+}
+
+.link-menu-footer{ 
+    text-decoration: none;   
+    color: white;
+    font-size: small;
+    margin-right: 10px; 
+    font-family: Arial, Helvetica, sans-serif;   
+    font-weight: bold;        
+}
+
+a.link-menu-footer:hover{
+    color:#FFDEAD;      
+}
+
+.img-logo-footer{
+    padding-right: 10px;
+    padding-bottom: 12px; 
+}
+
+.text-company-footer{
+    color: rgba(206, 201, 201, 0.349);
+    font-size: 12px;
+    font-weight: 500;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+}
